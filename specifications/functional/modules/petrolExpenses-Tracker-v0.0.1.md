@@ -1,6 +1,7 @@
 # Function Specification : Expense-Tracker-v0.0.1
 
-	The purpose for this module is to track the day to day expenses of the user on petrol filling, on 	the daily basis and provide analytical report of the recorded expenses. 
+	The purpose for this module is to track the day to day expenses of the user on petrol filling, 
+	on the daily basis and provide analytical report of the recorded expenses. 
 	
 ### Specification :
 
