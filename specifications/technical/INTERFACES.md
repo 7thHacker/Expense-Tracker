@@ -17,7 +17,8 @@
 
 ### Expenses :
 
-	description		:	It will provide the generic structure to store the instance of Expense with the unique Id into a map and operations performed on this data 
+	description		:	It will provide the generic structure to store the instance of Expense 
+					with the unique Id into a map and operations performed on this data 
 	package			:	com.everydayRESTletstory.expensesTracker.expenses
 	class-type		:	Interface [Generic Type]
 	super-class 		:	Object
