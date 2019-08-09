@@ -1,2 +1,5 @@
 /.metadata/
 /specifications/.project
+.classpath
+.project
+/petrolExpense-Tracker/.settings/org.eclipse.jdt.core.prefs
