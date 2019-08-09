@@ -24,7 +24,7 @@ PetrolExpense :
      	11. modeOfTransection, the mode of transaction like cash, cc, dc, net-banking, paytm ...etc.
      	12. geoLocation, to hold the x and y co-ordinates of the Geo-location of the petrol bunk
 	}
-	member-methods	:	{
+	member-methods		:	{
 		01. getters & setters
 		02. toString, Override toString method to print the value of data members instead of hashcode 
 			of instance.
