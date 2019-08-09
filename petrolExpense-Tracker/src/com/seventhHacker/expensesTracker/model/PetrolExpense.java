@@ -1,4 +1,4 @@
-package com.everydayRESTletstory.expensesTracker.expense;
+package com.seventhHacker.expensesTracker.model;
 
 import java.util.concurrent.ConcurrentHashMap;
 
